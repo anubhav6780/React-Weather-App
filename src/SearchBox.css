@@ -1,0 +1,17 @@
+.SearchBox{
+    
+    text-align: center;
+
+    margin-bottom: 25px;
+}
+.cityInput input {
+    color: white;
+}
+
+.cityInput label {
+    color: white;
+}
+
+.cityInput .MuiOutlinedInput-notchedOutline {
+    border-color: rgb(15, 146, 233);
+}
